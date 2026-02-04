@@ -19,7 +19,7 @@
 
 - 💼 I'm currently working on: **🌍 Developing a simulation model for managed aquifer recharge to support sustainable water resource planning as part of the Global Sustainability Challenge**
 - 🌱 I'm currently: **📈 Deepening my understanding of optimisation and decision models**
-- 💬 Ask me about: **💡 Agentic LLM workflows, practical ML systems or Taylor Swift**
+- 💬 Ask me about: **💡 ML systems, UX hot takes or Taylor Swift**
 - ⚡ Fun fact: **🛠️ I’ve repaired and resold 1,100+ iPhone units to reduce e-waste**
 
  **<h3 align="left">Skills</h3>**
