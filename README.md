@@ -1,4 +1,4 @@
-![👋 Hi, I’m Terry and welcome to my GitHub!](https://github.com/t3rryhuang/t3rryhuang/blob/main/banner.png?raw=true)
+![👋 Hi, I’m Terry and welcome to my GitHub!](https://github.com/t3rryhuang/t3rryhuang/blob/main/banner.png?raw=true$0)
 
 <div id="toc">
   <ul align="center" style="list-style: none">
