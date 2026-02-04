@@ -13,7 +13,7 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/t3rryhuang" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/t3rryhuang/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://x.com/t3rryhuang" target="_blank"><img src="https://img.shields.io/badge/X-000000?logo=X&logoColor=white$0" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">📊 I enjoy working on applied machine learning and data systems, including agentic LLM workflows and real-world analytics. My interests are in how technology can support sustainability.</h3>**
+ **<h3 align="left">📊 I enjoy working on applied machine learning and data systems, including agentic workflows and real-world analytics. My interests are in how technology can support sustainability.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
