@@ -4,7 +4,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        👋 Hi, I’m Terry and welcome to my GitHub!
+        👋 Hi, I’m Terry and welcome to my GitHub profile!
       </h1>
     </summary>
   </ul>
