@@ -17,8 +17,8 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **🌍 Developing a simulation model for managed aquifer recharge to support sustainable water resource planning as part of the Global Sustainability Challenge**
-- 🌱 I'm currently: **📈 Deepening my understanding of optimisation and decision models**
+- 💼 I'm currently working on: **🌍 Understanding Determinants of Breast Cancer Mortality**
+- 🌱 I'm currently: **📈 Deepening my understanding of Django**
 - 💬 Ask me about: **💡 ML systems, UX hot takes or Taylor Swift**
 - ⚡ Fun fact: **🛠️ I’ve repaired and resold 1,100+ iPhone units to reduce e-waste**
 
